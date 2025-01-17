@@ -1,0 +1,15 @@
+CHANGELOG.md
+LICENSE
+MANIFEST.in
+README.md
+setup.cfg
+setup.py
+pyls_spyder/__init__.py
+pyls_spyder/plugin.py
+pyls_spyder/utils.py
+pyls_spyder.egg-info/PKG-INFO
+pyls_spyder.egg-info/SOURCES.txt
+pyls_spyder.egg-info/dependency_links.txt
+pyls_spyder.egg-info/entry_points.txt
+pyls_spyder.egg-info/requires.txt
+pyls_spyder.egg-info/top_level.txt
